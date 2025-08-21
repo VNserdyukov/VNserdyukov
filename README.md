@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Привет!
 
-<!--
-**VNserdyukov/VNserdyukov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤵Меня зовут Victor, я руководиль отдела эксплуатации ИТ-инфраструктуры со стремлением перейти в разработку на Java.
 
-Here are some ideas to get you started:
+### 💻 Технологии и навыки
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Windows Server, Active Directory, DNS, DHCP, WSUS  
+- Veeam Backup, VMware vSphere
+- Kaspersky Security Center, корпоративные сервисы (почта, чат, видеосвязь)  
+- Bash, PowerShell, автоматизация и скрипты  
+- Управление ИТ-командой, проектирование инфраструктуры
+
+### ☕ Путь в Java-разработку
+
+- ✅ Изучил: Java Core, ООП, паттерны, Maven  
+- 📚 Сейчас изучаю: базы данных  
+- 🔜 В планах: Spring Framework, SOLID, микросервисы, Kafka, тестирование  
+- 🎯 Цель — найти работу в Backend Java
